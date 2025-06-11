@@ -12,9 +12,9 @@ In plus, you can customise animation by variation of the cloth (EUP for exemple,
 
 If you have any question, don't esitate to DM me on Discord : SleepingFox25 (Discord coming soon ;) )
 
-# ======================================
+# =====================================
 Explaination of how work the config.lua
-# ======================================
+# =====================================
 You can add, remove, or modify every animations in this section :
 
 Config.Animations = {
